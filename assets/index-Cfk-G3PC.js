@@ -523,7 +523,7 @@ Error generating stack: `+e.message+`
                 shadow-lg\r
                 hover:scale-105\r
                 cursor-pointer\r
-              `,children:`Know More`}),(0,O.jsx)(`a`,{href:`/resume.pdf`,target:`_blank`,rel:`noopener noreferrer`,className:`\r
+              `,children:`Know More`}),(0,O.jsx)(`a`,{href:`/kb/resume.pdf`,target:`_blank`,rel:`noopener noreferrer`,className:`\r
     px-8 py-4\r
     border border-white/40\r
     hover:bg-white/10\r
